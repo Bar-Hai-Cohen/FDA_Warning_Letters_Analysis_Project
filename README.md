@@ -6,7 +6,7 @@ The main notebook is [`FDA_Final_fixed.ipynb`](FDA_Final_fixed.ipynb). It scrape
 
 ## Abstract
 
-We collected the full FDA warning-letter table (3,768 letters) and kept the **1,325 letters issued by drug and biologics offices** (CDER, CBER, Pharmaceutical Quality Operations, Biological Products Operations) between January 2021 and October 2026. Each letter was dated by its official issue date and analyzed with three independent methods.
+We collected the full FDA warning-letter table (3,778 letters) and kept the **1,331 letters issued by drug and biologics offices** (CDER, CBER, Pharmaceutical Quality Operations, Biological Products Operations) between January 2021 and October 2026. Each letter was dated by its official issue date and analyzed with three independent methods.
 
 The number of medical warning letters grew from 152 in 2021 to 200 in 2024, and then jumped to **340 in 2025**. About 80% of that jump came from letters about **unapproved drugs and misleading online sales**, driven by a new wave of letters about **compounded semaglutide and tirzepatide** (GLP-1 weight-loss drugs) sold through telehealth websites, a topic that did not exist before 2025. Earlier years show a clear COVID-19 wave (hand sanitizers and unapproved COVID products in 2021–2022), followed by a period in which manufacturing-quality (cGMP) letters were the largest share.
 
@@ -25,7 +25,7 @@ Files in `data/`:
 |---|---|
 | `all_warning_letters_index.csv` | The full FDA table: URL, company, posted and issue dates, issuing office, subject |
 | `issuing_offices.csv` | Every issuing office, its number of letters, and whether it is included as "medical" |
-| `medical_warning_letters.jsonl` | Full text of the 1,325 medical letters |
+| `medical_warning_letters.jsonl` | Full text of the 1,331 medical letters |
 | `letters_classified.csv` | Letters with their DeBERTa category (cache of the slowest step) |
 | `fda_letters_results.csv` | One row per letter with all results: date, office, subject, clusters, category |
 | `manual_check.csv` | 40 random letters for manual validation of the classifier |
@@ -48,11 +48,11 @@ Files in `data/`:
 
 | Year | 2021 | 2022 | 2023 | 2024 | 2025 | 2026* |
 |---|---|---|---|---|---|---|
-| Medical warning letters | 152 | 182 | 183 | 200 | 340 | 268 |
+| Medical warning letters | 152 | 182 | 183 | 200 | 340 | 274 |
 
-\* 2026 is partial: letters up to 14 October 2026.
+\* 2026 is partial: letters up to 23 October 2026.
 
-**What drove the 2025 jump.** Compared with 2024, there were 140 more letters in 2025. 113 of them were classified as unapproved drugs & misbranding. By K-Means cluster, the largest increase came from a new cluster about **compounded semaglutide and tirzepatide** (0 letters in 2021–2024, 56 in 2025, 55 in 2026 so far), followed by online sales of unapproved drugs (+33) and prescription-only drugs sold online (+31).
+**What drove the 2025 jump.** Compared with 2024, there were 140 more letters in 2025. 113 of them were classified as unapproved drugs & misbranding. By K-Means cluster, the largest increase came from a new cluster about **compounded semaglutide and tirzepatide** (0 letters in 2021–2024, 52 in 2025, 55 in 2026 so far), followed by online sales of unapproved drugs (+41) and prescription-only drugs sold online (+31).
 
 ![Letters per year by K-Means cluster](figures/letters_by_kmeans_cluster.png)
 
@@ -67,17 +67,17 @@ Files in `data/`:
 
 **Topics found by the clustering methods.**
 
-* **K-Means** (k = 7) found: cGMP manufacturing (366 letters), sterile / aseptic processing and compounding (353), unapproved drugs sold online (298), compounded semaglutide & tirzepatide (111), prescription-only drugs sold online (82), hand sanitizers (58) and COVID-19 products (57).
-* **Sentence-BERT** (k = 2) split the letters into two main families: manufacturing and quality (817 letters) versus marketing of unapproved drugs (508). The two methods agree: almost every K-Means cluster falls into a single semantic cluster.
+* **K-Means** (k = 7) found: cGMP manufacturing (489 letters), unapproved drugs sold online together with compounding and cell/tissue products (461), compounded semaglutide & tirzepatide (107), prescription-only drugs sold online (82), clinical investigators (75), hand sanitizers (61) and COVID-19 products (56).
+* **Sentence-BERT** (k = 2) split the letters into two main families: manufacturing and quality (829 letters) versus marketing of unapproved drugs (502). The two methods largely agree: 6 of the 7 K-Means clusters fall almost entirely into one semantic cluster, and only the mixed online-sales / compounding cluster is split between the two.
 * **Most dominant clinical terms:** contamination, semaglutide, stability, microbiological, sterile, sanitizer, tirzepatide, aseptic.
 
-**Classifier accuracy.** DeBERTa agreed with the FDA subject line on **88.9%** of the 1,192 letters that have a reference label (F1: clinical 0.99, cGMP 0.93, unapproved drugs 0.90, **compounding 0.41**).
+**Classifier accuracy.** DeBERTa agreed with the FDA subject line on **89.0%** of the 1,198 letters that have a reference label (F1: clinical 0.99, cGMP 0.93, unapproved drugs 0.90, **compounding 0.41**).
 
 ## Limitations
 
 * **"Medical"** is our own definition, based on the issuing office.
 * **The reference label** for the classifier is derived from the FDA subject line with keyword rules, so it is approximate. A manual check of 40 letters is prepared in `data/manual_check.csv`.
-* **Silhouette scores are low** (0.135 for K-Means, 0.19 for the hierarchical clustering), so the clusters overlap and should be read as themes, not sharp categories.
+* **Silhouette scores are low** (0.148 for K-Means, 0.189 for the hierarchical clustering), so the clusters overlap and should be read as themes, not sharp categories.
 * **Compounding is the weakest category** of the classifier.
 * **2026 is a partial year.**
 
