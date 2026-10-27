@@ -1,0 +1,5 @@
+.DS_Store
+.mplconfig/
+.nb_imgs/
+*.backup.ipynb
+.ipynb_checkpoints/
