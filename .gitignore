@@ -3,3 +3,4 @@
 .nb_imgs/
 .ipynb_checkpoints/
 .hf_cache/
+.numba_cache/

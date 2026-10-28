@@ -1,0 +1,101 @@
+method,cluster,cluster_name,rank,term,score
+K-Means,1,C1: covid · coronavirus · treat diagnose,1,covid,0.10069
+K-Means,1,C1: covid · coronavirus · treat diagnose,2,coronavirus,0.09925
+K-Means,1,C1: covid · coronavirus · treat diagnose,3,treat diagnose,0.07149
+K-Means,1,C1: covid · coronavirus · treat diagnose,4,outbreak,0.06967
+K-Means,1,C1: covid · coronavirus · treat diagnose,5,diagnose cure,0.0693
+K-Means,1,C1: covid · coronavirus · treat diagnose,6,mitigate treat,0.06457
+K-Means,1,C1: covid · coronavirus · treat diagnose,7,force cder,0.06097
+K-Means,1,C1: covid · coronavirus · treat diagnose,8,prevention diagnosis,0.06092
+K-Means,1,C1: covid · coronavirus · treat diagnose,9,task force,0.06068
+K-Means,1,C1: covid · coronavirus · treat diagnose,10,hours,0.06053
+K-Means,2,C2: incoming · finished · stability,1,incoming,0.04005
+K-Means,2,C2: incoming · finished · stability,2,finished,0.03045
+K-Means,2,C2: incoming · finished · stability,3,stability,0.0301
+K-Means,2,C2: incoming · finished · stability,4,consultant,0.02968
+K-Means,2,C2: incoming · finished · stability,5,guidance document,0.028
+K-Means,2,C2: incoming · finished · stability,6,reliability,0.02652
+K-Means,2,C2: incoming · finished · stability,7,glycol,0.02628
+K-Means,2,C2: incoming · finished · stability,8,qualified,0.02607
+K-Means,2,C2: incoming · finished · stability,9,expiry,0.02503
+K-Means,2,C2: incoming · finished · stability,10,ongoing,0.02488
+K-Means,3,C3: compounded · semaglutide · tirzepatide,1,compounded,0.13779
+K-Means,3,C3: compounded · semaglutide · tirzepatide,2,semaglutide,0.13417
+K-Means,3,C3: compounded · semaglutide · tirzepatide,3,tirzepatide,0.113
+K-Means,3,C3: compounded · semaglutide · tirzepatide,4,false,0.10642
+K-Means,3,C3: compounded · semaglutide · tirzepatide,5,claims,0.06468
+K-Means,3,C3: compounded · semaglutide · tirzepatide,6,compounding,0.06285
+K-Means,3,C3: compounded · semaglutide · tirzepatide,7,advised delivery,0.05669
+K-Means,3,C3: compounded · semaglutide · tirzepatide,8,notice concerns,0.05669
+K-Means,3,C3: compounded · semaglutide · tirzepatide,9,ocqc,0.05669
+K-Means,3,C3: compounded · semaglutide · tirzepatide,10,represent exhaustive,0.05669
+K-Means,4,C4: aseptic · sterile · root cause,1,aseptic,0.03506
+K-Means,4,C4: aseptic · sterile · root cause,2,sterile,0.0341
+K-Means,4,C4: aseptic · sterile · root cause,3,root cause,0.02449
+K-Means,4,C4: aseptic · sterile · root cause,4,contamination,0.02322
+K-Means,4,C4: aseptic · sterile · root cause,5,investigation,0.02315
+K-Means,4,C4: aseptic · sterile · root cause,6,shortages,0.02121
+K-Means,4,C4: aseptic · sterile · root cause,7,deviations,0.02075
+K-Means,4,C4: aseptic · sterile · root cause,8,retrospective,0.02065
+K-Means,4,C4: aseptic · sterile · root cause,9,produced,0.0206
+K-Means,4,C4: aseptic · sterile · root cause,10,sterility,0.02039
+K-Means,5,C5: webpage · fdaadvisory · opportunity adequately,1,webpage,0.02115
+K-Means,5,C5: webpage · fdaadvisory · opportunity adequately,2,fdaadvisory,0.01885
+K-Means,5,C5: webpage · fdaadvisory · opportunity adequately,3,opportunity adequately,0.01778
+K-Means,5,C5: webpage · fdaadvisory · opportunity adequately,4,complies notifies,0.01605
+K-Means,5,C5: webpage · fdaadvisory · opportunity adequately,5,body examples,0.01569
+K-Means,5,C5: webpage · fdaadvisory · opportunity adequately,6,service,0.01495
+K-Means,5,C5: webpage · fdaadvisory · opportunity adequately,7,tissue,0.01485
+K-Means,5,C5: webpage · fdaadvisory · opportunity adequately,8,disease,0.01456
+K-Means,5,C5: webpage · fdaadvisory · opportunity adequately,9,occurrence complies,0.01444
+K-Means,5,C5: webpage · fdaadvisory · opportunity adequately,10,writing explanation,0.01441
+K-Means,6,C6: subjects · investigational · study,1,subjects,0.11179
+K-Means,6,C6: subjects · investigational · study,2,investigational,0.09017
+K-Means,6,C6: subjects · investigational · study,3,study,0.08075
+K-Means,6,C6: subjects · investigational · study,4,welfare,0.06229
+K-Means,6,C6: subjects · investigational · study,5,similar future,0.06161
+K-Means,6,C6: subjects · investigational · study,6,enrolled,0.05739
+K-Means,6,C6: subjects · investigational · study,7,david burrow,0.05683
+K-Means,6,C6: subjects · investigational · study,8,adhere,0.05678
+K-Means,6,C6: subjects · investigational · study,9,emphasize,0.05545
+K-Means,6,C6: subjects · investigational · study,10,rights safety,0.0518
+K-Means,7,C7: practitioner · prescription · boxed,1,practitioner,0.06943
+K-Means,7,C7: practitioner · prescription · boxed,2,prescription,0.06529
+K-Means,7,C7: practitioner · prescription · boxed,3,boxed,0.06174
+K-Means,7,C7: practitioner · prescription · boxed,4,offering,0.05968
+K-Means,7,C7: practitioner · prescription · boxed,5,layperson,0.05921
+K-Means,7,C7: practitioner · prescription · boxed,6,introduces,0.057
+K-Means,7,C7: practitioner · prescription · boxed,7,risks consumers,0.05582
+K-Means,7,C7: practitioner · prescription · boxed,8,licensed,0.05349
+K-Means,7,C7: practitioner · prescription · boxed,9,directions,0.05201
+K-Means,7,C7: practitioner · prescription · boxed,10,offer,0.05154
+K-Means,8,C8: hand sanitizer · antiseptic · alcohol,1,hand sanitizer,0.09102
+K-Means,8,C8: hand sanitizer · antiseptic · alcohol,2,antiseptic,0.07912
+K-Means,8,C8: hand sanitizer · antiseptic · alcohol,3,alcohol,0.06937
+K-Means,8,C8: hand sanitizer · antiseptic · alcohol,4,ethanol,0.06929
+K-Means,8,C8: hand sanitizer · antiseptic · alcohol,5,border,0.06579
+K-Means,8,C8: hand sanitizer · antiseptic · alcohol,6,consumer,0.06294
+K-Means,8,C8: hand sanitizer · antiseptic · alcohol,7,temporary policy,0.05789
+K-Means,8,C8: hand sanitizer · antiseptic · alcohol,8,hand sanitizers,0.05572
+K-Means,8,C8: hand sanitizer · antiseptic · alcohol,9,rule,0.05504
+K-Means,8,C8: hand sanitizer · antiseptic · alcohol,10,ethyl,0.0537
+Semantic,1,C1: semaglutide · claims · advise,1,semaglutide,0.03426
+Semantic,1,C1: semaglutide · claims · advise,2,claims,0.02856
+Semantic,1,C1: semaglutide · claims · advise,3,advise,0.02796
+Semantic,1,C1: semaglutide · claims · advise,4,tirzepatide,0.02735
+Semantic,1,C1: semaglutide · claims · advise,5,consumers,0.02625
+Semantic,1,C1: semaglutide · claims · advise,6,false,0.0255
+Semantic,1,C1: semaglutide · claims · advise,7,compounded,0.02515
+Semantic,1,C1: semaglutide · claims · advise,8,prescription,0.02136
+Semantic,1,C1: semaglutide · claims · advise,9,safe effective,0.02129
+Semantic,1,C1: semaglutide · claims · advise,10,webpage,0.02064
+Semantic,2,C2: consultant · guidance · contamination,1,consultant,0.02369
+Semantic,2,C2: consultant · guidance · contamination,2,guidance,0.02199
+Semantic,2,C2: consultant · guidance · contamination,3,contamination,0.02141
+Semantic,2,C2: consultant · guidance · contamination,4,deficiencies,0.0214
+Semantic,2,C2: consultant · guidance · contamination,5,ongoing,0.0208
+Semantic,2,C2: consultant · guidance · contamination,6,finished,0.01982
+Semantic,2,C2: consultant · guidance · contamination,7,stability,0.0194
+Semantic,2,C2: consultant · guidance · contamination,8,qualified,0.01929
+Semantic,2,C2: consultant · guidance · contamination,9,batches,0.01928
+Semantic,2,C2: consultant · guidance · contamination,10,facilities,0.01918

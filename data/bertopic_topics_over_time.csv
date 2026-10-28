@@ -1,0 +1,446 @@
+Topic,Words,Frequency,Timestamp,Name
+0,"glycerin, stability, remain, deviations, import",3,2021-01-01,T0: contamination · cleaning · stability
+2,"study, subjects, randomized, investigational, week",1,2021-01-01,T2: study · subjects · investigational
+5,"hand, hand sanitizer, sanitizer, antiseptic, alcohol",5,2021-01-01,T5: hand · sanitizer · alcohol
+10,"covid, coronavirus, disease, cure covid, cure",1,2021-01-01,T10: covid · coronavirus · disease
+12,"covid, hydroxychloroquine, chloroquine, disease, coronavirus",3,2021-01-01,T12: covid · antiseptic · disease
+1,"sterile, cleanrooms, exemptions, responses, investigators",1,2021-02-01,T1: outsourcing · sterile · compounded
+2,"study, investigation, subjects, investigational, consent",1,2021-02-01,T2: study · subjects · investigational
+4,"promotional, communication, opdp, video, risks",3,2021-02-01,T4: delta · compounded · supplement
+5,"hand, hand sanitizer, sanitizer, alcohol, methanol",6,2021-02-01,T5: hand · sanitizer · alcohol
+6,"hand, sanitizer, hand sanitizer, alcohol, ethanol",2,2021-02-01,T6: hand · sanitizer · alcohol
+10,"covid, coronavirus, disease, cure, cure covid",1,2021-02-01,T10: covid · coronavirus · disease
+0,"silver, relief, magnesium, stability, relief cream",4,2021-03-01,T0: contamination · cleaning · stability
+2,"subjects, study, investigational, randomized, dosing",1,2021-03-01,T2: study · subjects · investigational
+4,"cancer, drops, animal, relief, dietary",1,2021-03-01,T4: delta · compounded · supplement
+5,"hand, sanitizer, hand sanitizer, alcohol, antiseptic",7,2021-03-01,T5: hand · sanitizer · alcohol
+10,"covid, coronavirus, disease, immune, cure",3,2021-03-01,T10: covid · coronavirus · disease
+18,"listing, registration listing, registration, edrls, removal",1,2021-03-01,T18: listing · registration · file
+0,"powder, organic, root, essential, deviations",2,2021-04-01,T0: contamination · cleaning · stability
+1,"outsourcing, sterile, adverse event, event, adverse",3,2021-04-01,T1: outsourcing · sterile · compounded
+5,"hand, hand sanitizer, sanitizer, alcohol, methanol",4,2021-04-01,T5: hand · sanitizer · alcohol
+10,"covid, coronavirus, disease, cure, cure covid",4,2021-04-01,T10: covid · coronavirus · disease
+12,"covid, chloroquine, hydroxychloroquine, coronavirus, cure covid",1,2021-04-01,T12: covid · antiseptic · disease
+0,"rubbing, stability, isopropyl, request, prior",2,2021-05-01,T0: contamination · cleaning · stability
+2,"subjects, investigational, study, agitation, ketamine",2,2021-05-01,T2: study · subjects · investigational
+3,"degree, communicable, donor, cord, communicable disease",1,2021-05-01,T3: donor · tissue · biological
+4,"birth, women, choice, hormonal, hormone",1,2021-05-01,T4: delta · compounded · supplement
+5,"hand, hand sanitizer, sanitizer, alcohol, methanol",2,2021-05-01,T5: hand · sanitizer · alcohol
+9,"sarms, powder, alpha, male, plus",1,2021-05-01,T9: semaglutide · weight · body
+10,"covid, dioxide, coronavirus, prevention, cure covid",1,2021-05-01,T10: covid · coronavirus · disease
+12,"covid, antiseptic, disease, coronavirus, hand",3,2021-05-01,T12: covid · antiseptic · disease
+0,"cleaning, manufactured, stability, batches, practices",2,2021-06-01,T0: contamination · cleaning · stability
+5,"hand, sanitizer, hand sanitizer, alcohol, sanitizer alcohol",2,2021-06-01,T5: hand · sanitizer · alcohol
+10,"covid, coronavirus, herbal, anti viral, formula",1,2021-06-01,T10: covid · coronavirus · disease
+12,"influenza, virus, vaccine, cure, biologics",1,2021-06-01,T12: covid · antiseptic · disease
+0,"cleaning, repackaging, contamination, deviations, water",2,2021-07-01,T0: contamination · cleaning · stability
+1,"compounded, outsourcing, exemptions, qualify exemptions, produced",3,2021-07-01,T1: outsourcing · sterile · compounded
+4,"animal, roll, nasal spray, nasal, spray",1,2021-07-01,T4: delta · compounded · supplement
+5,"hand, hand sanitizer, sanitizer, alcohol, antiseptic",2,2021-07-01,T5: hand · sanitizer · alcohol
+6,"hand, sanitizer, hand sanitizer, ethanol, alcohol",1,2021-07-01,T6: hand · sanitizer · alcohol
+8,"pharmacy, prescription, benzodiazepines, hydroxychloroquine, tramadol",1,2021-07-01,T8: prescription · benzodiazepines · tramadol
+10,"covid, coronavirus, disease, cure covid, cure",1,2021-07-01,T10: covid · coronavirus · disease
+12,"antiseptic, covid, oral, nasal, antiseptics",2,2021-07-01,T12: covid · antiseptic · disease
+0,"integrity, investigation, extrinsic, contamination, oversight",2,2021-08-01,T0: contamination · cleaning · stability
+1,"outsourcing, compounded, exemptions, qualify exemptions, compounding",4,2021-08-01,T1: outsourcing · sterile · compounded
+2,"subjects, covid, study, investigational, endpoints",1,2021-08-01,T2: study · subjects · investigational
+3,"cord, donor, umbilical, umbilical cord, processing",1,2021-08-01,T3: donor · tissue · biological
+4,"ultra, slim, gold, websites, supplement",1,2021-08-01,T4: delta · compounded · supplement
+5,"hand, hand sanitizer, sanitizer, methanol, alcohol",1,2021-08-01,T5: hand · sanitizer · alcohol
+6,"hand, sanitizer, hand sanitizer, alcohol, antiseptic",1,2021-08-01,T6: hand · sanitizer · alcohol
+8,"pill, benzodiazepines, tramadol, prescription, consumers",1,2021-08-01,T8: prescription · benzodiazepines · tramadol
+9,"intensity, high, dietary, directions, supplement",1,2021-08-01,T9: semaglutide · weight · body
+10,"covid, coronavirus, disease, cure covid, cure",2,2021-08-01,T10: covid · coronavirus · disease
+12,"antiseptic, covid, consumer, topical, topical antiseptic",1,2021-08-01,T12: covid · antiseptic · disease
+0,"stability, deviations, cmos, root, practices",5,2021-09-01,T0: contamination · cleaning · stability
+1,"compounded, outsourcing, exemptions, requirement, qualify exemptions",2,2021-09-01,T1: outsourcing · sterile · compounded
+2,"study, investigational, subjects, cure mitigate, human subjects",1,2021-09-01,T2: study · subjects · investigational
+5,"hand, hand sanitizer, sanitizer, alcohol, antiseptic",5,2021-09-01,T5: hand · sanitizer · alcohol
+6,"hand, sanitizer, hand sanitizer, cleaning, guidance",1,2021-09-01,T6: hand · sanitizer · alcohol
+7,"indian, salve, black, herb, tissue",1,2021-09-01,T7: drops · eyes · relief
+12,"covid, antiseptic, coronavirus, consumer, disease",1,2021-09-01,T12: covid · antiseptic · disease
+15,"request, agency, registered, respond, hand",2,2021-09-01,T15: request · registered · respond
+1,"compounded, outsourcing, exemptions, adverse event, adverse",1,2021-10-01,T1: outsourcing · sterile · compounded
+2,"study, investigational, subjects, criteria, adhere",1,2021-10-01,T2: study · subjects · investigational
+4,"remedy, directions, blood, blood glucose, prescription",1,2021-10-01,T4: delta · compounded · supplement
+5,"hand, hand sanitizer, sanitizer, alcohol, antiseptic",3,2021-10-01,T5: hand · sanitizer · alcohol
+0,"cleaning, contamination, stability, investigation, chin",3,2021-11-01,T0: contamination · cleaning · stability
+1,"sterile, compounded, exemptions, hood, vials",1,2021-11-01,T1: outsourcing · sterile · compounded
+3,"donor, biological, cord, umbilical, umbilical cord",1,2021-11-01,T3: donor · tissue · biological
+5,"hand, sanitizer, hand sanitizer, alcohol, methanol",2,2021-11-01,T5: hand · sanitizer · alcohol
+0,"handwash, lemon, water, stability, eucalyptus",2,2021-12-01,T0: contamination · cleaning · stability
+2,"study, subjects, investigation, investigational, future",1,2021-12-01,T2: study · subjects · investigational
+3,"donor, anonymous, donors, eligibility, oocytes",1,2021-12-01,T3: donor · tissue · biological
+4,"vitamin, webpage, social media, social, safe",2,2021-12-01,T4: delta · compounded · supplement
+5,"hand, hand sanitizer, sanitizer, alcohol, methanol",5,2021-12-01,T5: hand · sanitizer · alcohol
+7,"asthma, breathe, aromatherapy, drops, relief",1,2021-12-01,T7: drops · eyes · relief
+9,"caffeine, energy, social media, social, diffuser",2,2021-12-01,T9: semaglutide · weight · body
+12,"covid, antiseptic, hand, consumer, disease",1,2021-12-01,T12: covid · antiseptic · disease
+0,"acne, serum, investigation, deviations, batches",3,2022-01-01,T0: contamination · cleaning · stability
+1,"sterile, vials, compounded, aseptic, technique",1,2022-01-01,T1: outsourcing · sterile · compounded
+5,"hand, hand sanitizer, sanitizer, packaged, sanitizer packaged",1,2022-01-01,T5: hand · sanitizer · alcohol
+10,"covid, coronavirus, cure covid, disease, sars",1,2022-01-01,T10: covid · coronavirus · disease
+0,"stability, cleaning, guidance, ongoing, practices",3,2022-02-01,T0: contamination · cleaning · stability
+2,"study, subjects, investigational, consent, calculations",3,2022-02-01,T2: study · subjects · investigational
+3,"cord blood, cord, umbilical, umbilical cord, blood",1,2022-02-01,T3: donor · tissue · biological
+4,"powder, capsules, social media, social, media",1,2022-02-01,T4: delta · compounded · supplement
+7,"plasma, silver, colloidal, colloidal silver, healing",1,2022-02-01,T7: drops · eyes · relief
+10,"covid, amazon, associate, antiviral, coronavirus",1,2022-02-01,T10: covid · coronavirus · disease
+12,"covid, hydroxychloroquine, coronavirus, disease, chloroquine",5,2022-02-01,T12: covid · antiseptic · disease
+18,"listing, registration listing, registration, listing file, electronic",2,2022-02-01,T18: listing · registration · file
+0,"cleaning, water, oversight, contamination, ongoing",10,2022-03-01,T0: contamination · cleaning · stability
+1,"processing, sterile, sterility, aseptic processing, aseptic",1,2022-03-01,T1: outsourcing · sterile · compounded
+3,"positive, donor, processing, cultures, particulate",1,2022-03-01,T3: donor · tissue · biological
+8,"knowingly, intentionally, stimulants, prescription, controlled",2,2022-03-01,T8: prescription · benzodiazepines · tramadol
+10,"covid, coronavirus, disease, cure, cure covid",10,2022-03-01,T10: covid · coronavirus · disease
+12,"iodine, antiseptic, covid, povidone, povidone iodine",2,2022-03-01,T12: covid · antiseptic · disease
+0,"investigation, cause, root, water, contamination",4,2022-04-01,T0: contamination · cleaning · stability
+1,"sterile, expected sterile, expected, licensed, visibly dirty",1,2022-04-01,T1: outsourcing · sterile · compounded
+2,"study, enrolled, subjects, investigational, enrollment",1,2022-04-01,T2: study · subjects · investigational
+5,"hand, hand sanitizer, sanitizer, ethanol, antiseptic",1,2022-04-01,T5: hand · sanitizer · alcohol
+6,"hand, sanitizer, hand sanitizer, alcohol, ethanol",2,2022-04-01,T6: hand · sanitizer · alcohol
+10,"covid, coronavirus, disease, cure, cure covid",1,2022-04-01,T10: covid · coronavirus · disease
+12,"covid, antiseptic, disease, coronavirus, antiseptics",3,2022-04-01,T12: covid · antiseptic · disease
+16,"skin, bleaching, skin bleaching, cream, lightening",11,2022-04-01,T16: numbing · skin · cream
+0,"cleaning, water, ongoing, pharmaceutical, oversight",3,2022-05-01,T0: contamination · cleaning · stability
+1,"sterile, expected sterile, expected, september, testosterone",1,2022-05-01,T1: outsourcing · sterile · compounded
+2,"study, investigational, subjects, tasks, assessments",1,2022-05-01,T2: study · subjects · investigational
+3,"cord, umbilical, umbilical cord, amniotic, amniotic membrane",1,2022-05-01,T3: donor · tissue · biological
+4,"delta, animal, additive, hemp, gras",5,2022-05-01,T4: delta · compounded · supplement
+6,"hand, sanitizer, hand sanitizer, antiseptic, consumer",2,2022-05-01,T6: hand · sanitizer · alcohol
+7,"webpage, ayurvedic, drops, diseases, respiratory",2,2022-05-01,T7: drops · eyes · relief
+8,"risks, consumers, cardiac, risks consumers, tablets",1,2022-05-01,T8: prescription · benzodiazepines · tramadol
+18,"listing, listing file, file, registration listing, registration",1,2022-05-01,T18: listing · registration · file
+0,"cleaning, stability, batches, deviations, external",4,2022-06-01,T0: contamination · cleaning · stability
+1,"outsourcing, compounded, outsourcing facilities, exemptions, qualify exemptions",1,2022-06-01,T1: outsourcing · sterile · compounded
+3,"donor, oocyte, oocyte donor, determined, donor determined",1,2022-06-01,T3: donor · tissue · biological
+5,"hand, hand sanitizer, sanitizer, methanol, alcohol",3,2022-06-01,T5: hand · sanitizer · alcohol
+6,"hand, sanitizer, hand sanitizer, moisturizing, scented",1,2022-06-01,T6: hand · sanitizer · alcohol
+8,"essential, addiction, withdrawal, aromatherapy, symptoms",1,2022-06-01,T8: prescription · benzodiazepines · tramadol
+15,"glycerin, request, zapopan, calle, respond",1,2022-06-01,T15: request · registered · respond
+17,"kratom, addiction, ketamine, withdrawal, claims",5,2022-06-01,T17: ketamine · ammonia · kratom
+0,"dietary, supplement, dietary supplement, cleaning, water",3,2022-07-01,T0: contamination · cleaning · stability
+1,"outsourcing, sterile, observation form, form, observation",1,2022-07-01,T1: outsourcing · sterile · compounded
+2,"subjects, study, consent, investigational, enrolled",1,2022-07-01,T2: study · subjects · investigational
+3,"pure, cord, umbilical, umbilical cord, donor",1,2022-07-01,T3: donor · tissue · biological
+5,"hand, hand sanitizer, sanitizer, antiseptic, consumer",1,2022-07-01,T5: hand · sanitizer · alcohol
+6,"fungal, anti fungal, anti, antifungal, soap",1,2022-07-01,T6: hand · sanitizer · alcohol
+9,"sarms, muscle, anabolic, ostarine, lean muscle",1,2022-07-01,T9: semaglutide · weight · body
+15,"request, registered, respond, agency, hand",1,2022-07-01,T15: request · registered · respond
+0,"batches, cleaning, tray, investigation, aseptic",4,2022-08-01,T0: contamination · cleaning · stability
+1,"classified, sterile, cleanroom, hazardous, smoke studies",1,2022-08-01,T1: outsourcing · sterile · compounded
+2,"study, nonclinical, studies, animal, nonclinical study",1,2022-08-01,T2: study · subjects · investigational
+3,"fluid, restore, amniotic, amniotic fluid, biological",1,2022-08-01,T3: donor · tissue · biological
+6,"hand, sanitizer, hand sanitizer, scent, free hand",1,2022-08-01,T6: hand · sanitizer · alcohol
+8,"tramadol, prescription, benzodiazepines, consumers, risks",1,2022-08-01,T8: prescription · benzodiazepines · tramadol
+10,"covid, coronavirus, disease, cure, cure covid",1,2022-08-01,T10: covid · coronavirus · disease
+16,"skin, moles, remover, skin tags, numbing",3,2022-08-01,T16: numbing · skin · cream
+0,"cleaning, aseptic, processing, stability, batches",5,2022-09-01,T0: contamination · cleaning · stability
+6,"hand, sanitizer, hand sanitizer, alcohol, guidance",4,2022-09-01,T6: hand · sanitizer · alcohol
+10,"covid, coronavirus, disease, cure, cure covid",1,2022-09-01,T10: covid · coronavirus · disease
+0,"contamination, investigation, aseptic, media, processing",5,2022-10-01,T0: contamination · cleaning · stability
+1,"outsourcing, compounded, outsourcing facilities, sterile, exemptions",1,2022-10-01,T1: outsourcing · sterile · compounded
+3,"semen, donor, months, donation, donors",1,2022-10-01,T3: donor · tissue · biological
+4,"artri, ortiga, artri king, king, translation",2,2022-10-01,T4: delta · compounded · supplement
+6,"hand, sanitizer, hand sanitizer, alcohol, alcohol hand",2,2022-10-01,T6: hand · sanitizer · alcohol
+9,"artri, ortiga, artri king, king, omega",1,2022-10-01,T9: semaglutide · weight · body
+10,"covid, coronavirus, disease, cure, cure covid",1,2022-10-01,T10: covid · coronavirus · disease
+18,"listing, registration listing, registration, listing file, electronic",2,2022-10-01,T18: listing · registration · file
+0,"water, microbiological, detailed, deviations, batches",5,2022-11-01,T0: contamination · cleaning · stability
+1,"sterile, observation form, observation, larson, compounding",1,2022-11-01,T1: outsourcing · sterile · compounded
+2,"investigational, combination, study, subjects, investigation",1,2022-11-01,T2: study · subjects · investigational
+3,"donor, donors, eligibility, donor eligibility, directed",2,2022-11-01,T3: donor · tissue · biological
+8,"prescription, benzodiazepines, tramadol, consumers, risks",2,2022-11-01,T8: prescription · benzodiazepines · tramadol
+10,"covid, cbda, coronavirus, disease, cure",1,2022-11-01,T10: covid · coronavirus · disease
+15,"request, agency, registered, respond, registration file",1,2022-11-01,T15: request · registered · respond
+0,"deviations, conductivity, compendial, dietary, practices",6,2022-12-01,T0: contamination · cleaning · stability
+1,"sterile, compounded, contamination, observation, microbial contamination",1,2022-12-01,T1: outsourcing · sterile · compounded
+2,"study, week, randomized, subjects, dose",1,2022-12-01,T2: study · subjects · investigational
+4,"dried, additive, websites, inhaler, gras",1,2022-12-01,T4: delta · compounded · supplement
+5,"hand, hand sanitizer, sanitizer, alcohol, anti microbial",1,2022-12-01,T5: hand · sanitizer · alcohol
+6,"hand, sanitizer, hand sanitizer, acetaldehyde, acetal",4,2022-12-01,T6: hand · sanitizer · alcohol
+0,"relief, muscular, formula, external, ointment",5,2023-01-01,T0: contamination · cleaning · stability
+2,"member, members, meetings, physician, subjects",1,2023-01-01,T2: study · subjects · investigational
+4,"river, wind, supplement, energy, tincture",2,2023-01-01,T4: delta · compounded · supplement
+6,"hand, sanitizer, hand sanitizer, alcohol, acetaldehyde",3,2023-01-01,T6: hand · sanitizer · alcohol
+8,"benzodiazepines, prescription, risks, tramadol, consumers",1,2023-01-01,T8: prescription · benzodiazepines · tramadol
+9,"sense, slim, extra, blood, hidden",1,2023-01-01,T9: semaglutide · weight · body
+10,"covid, coronavirus, disease, prevention, cure",3,2023-01-01,T10: covid · coronavirus · disease
+14,"amazon, associate, directions, treat diagnose, diagnose cure",1,2023-01-01,T14: toxin · botulinum · cervical dystonia
+0,"water, stability, ongoing, detailed, independent",4,2023-02-01,T0: contamination · cleaning · stability
+6,"hand, sanitizer, hand sanitizer, antibacterial, foam",2,2023-02-01,T6: hand · sanitizer · alcohol
+18,"listing, registration, registration listing, establishment, edrls",1,2023-02-01,T18: listing · registration · file
+0,"water, guidance, pharmaceutical, ongoing, practices",6,2023-03-01,T0: contamination · cleaning · stability
+1,"bulk, exemptions, compounded, using bulk, bulks list",1,2023-03-01,T1: outsourcing · sterile · compounded
+2,"study, subjects, investigational, investigation, cornea",3,2023-03-01,T2: study · subjects · investigational
+9,"prescription, foreign, different, patient, release capsules",1,2023-03-01,T9: semaglutide · weight · body
+12,"covid, disease, coronavirus, cure covid, consumers",1,2023-03-01,T12: covid · antiseptic · disease
+18,"listing, listing file, file, registration listing, registration",1,2023-03-01,T18: listing · registration · file
+0,"glycerin, cleaning, benzene, finished, incoming",6,2023-04-01,T0: contamination · cleaning · stability
+4,"black, undeclared, inhibitors, sildenafil, tadalafil",1,2023-04-01,T4: delta · compounded · supplement
+8,"benzodiazepines, prescription, tramadol, consumers, risks",1,2023-04-01,T8: prescription · benzodiazepines · tramadol
+12,"covid, anti anxiety, homeopathic, cancer, stress",1,2023-04-01,T12: covid · antiseptic · disease
+17,"nose, stimulant, ammonia, smelling, salts",1,2023-04-01,T17: ketamine · ammonia · kratom
+0,"beta, lactam, beta lactam, cleaning, contamination",2,2023-05-01,T0: contamination · cleaning · stability
+1,"responses, sterile, compounding, outsourcing, compounded",3,2023-05-01,T1: outsourcing · sterile · compounded
+2,"study, subjects, investigational, consent, informed consent",1,2023-05-01,T2: study · subjects · investigational
+6,"hand, sanitizer, hand sanitizer, acetaldehyde, alcohol",1,2023-05-01,T6: hand · sanitizer · alcohol
+8,"prescription, benzodiazepines, adderall, stimulants, abuse",1,2023-05-01,T8: prescription · benzodiazepines · tramadol
+9,"weight loss, capsules, loss, weight, diarrhea",2,2023-05-01,T9: semaglutide · weight · body
+0,"chain, trading, partners, cleaning, guidance",4,2023-06-01,T0: contamination · cleaning · stability
+1,"sterile, hood, observation, aseptic, pads",1,2023-06-01,T1: outsourcing · sterile · compounded
+2,"investigational, study, sponsor, subjects, riboflavin",1,2023-06-01,T2: study · subjects · investigational
+3,"donor, biological, donors, tissue, cord",4,2023-06-01,T3: donor · tissue · biological
+4,"forte, diclofenac, dietary, dexamethasone, dietary supplement",1,2023-06-01,T4: delta · compounded · supplement
+9,"muscle, growth, cialis, sarms, weeks",1,2023-06-01,T9: semaglutide · weight · body
+15,"request, respond, chemicals, registered, electronic request",1,2023-06-01,T15: request · registered · respond
+18,"listing, listing file, electronic listing, file, electronic",1,2023-06-01,T18: listing · registration · file
+0,"cleaning, contamination, investigation, oversight, practices",9,2023-07-01,T0: contamination · cleaning · stability
+1,"sterile, outsourcing, filling, compounded, aseptic",1,2023-07-01,T1: outsourcing · sterile · compounded
+4,"enhancement, male, male enhancement, sexual, plus",2,2023-07-01,T4: delta · compounded · supplement
+17,"kratom, withdrawal, vein kratom, opiate, addiction",1,2023-07-01,T17: ketamine · ammonia · kratom
+0,"high, contamination, incoming, oversight, glycol",13,2023-08-01,T0: contamination · cleaning · stability
+2,"study, subjects, visit, investigational, left",1,2023-08-01,T2: study · subjects · investigational
+4,"calm, upset, stomach, homeopathic, infant",2,2023-08-01,T4: delta · compounded · supplement
+6,"hand, sanitizer, hand sanitizer, instant hand, instant",1,2023-08-01,T6: hand · sanitizer · alcohol
+12,"communication, promotional, statistically significant, statistically, value",1,2023-08-01,T12: covid · antiseptic · disease
+15,"request, registered, respond, agency, registered manufactured",6,2023-08-01,T15: request · registered · respond
+16,"molluscum, skin, molluscum contagiosum, contagiosum, numbing",6,2023-08-01,T16: numbing · skin · cream
+0,"redness, relief, burning, emporarily, contamination",4,2023-09-01,T0: contamination · cleaning · stability
+1,"classified, sterile, hoods, compounded, exemptions",2,2023-09-01,T1: outsourcing · sterile · compounded
+2,"study, subjects, investigational, criteria, inclusion",2,2023-09-01,T2: study · subjects · investigational
+3,"biological, infants, signature, cord, donor",3,2023-09-01,T3: donor · tissue · biological
+6,"hydrogen, hydrogen peroxide, peroxide, grade, hand",1,2023-09-01,T6: hand · sanitizer · alcohol
+7,"drops, eyes, relief, vision, cataracts",7,2023-09-01,T7: drops · eyes · relief
+8,"prescription, morphine, sulfate, consumers, practitioner",1,2023-09-01,T8: prescription · benzodiazepines · tramadol
+15,"request, registered, respond, agency, registered manufactured",4,2023-09-01,T15: request · registered · respond
+17,"kratom, depression, symptoms, addiction, took",1,2023-09-01,T17: ketamine · ammonia · kratom
+18,"listing, registration listing, fluoride, registration, listing file",1,2023-09-01,T18: listing · registration · file
+0,"artificial, tears, contamination, aseptic, sterile",5,2023-10-01,T0: contamination · cleaning · stability
+2,"study, animals, investigational, subjects, final study",2,2023-10-01,T2: study · subjects · investigational
+3,"infants, dietary, supplement, additive, biological",1,2023-10-01,T3: donor · tissue · biological
+6,"hand, perfect, sanitizer, hand sanitizer, antiseptic",1,2023-10-01,T6: hand · sanitizer · alcohol
+7,"drops, liquid, eyes, membranes, amazon storefront",1,2023-10-01,T7: drops · eyes · relief
+9,"semaglutide, prescription, weight, type diabetes, diabetes",2,2023-10-01,T9: semaglutide · weight · body
+0,"stability, oversight, consultant, batches, ongoing",9,2023-11-01,T0: contamination · cleaning · stability
+2,"study, investigational, subjects, randomization, randomized",1,2023-11-01,T2: study · subjects · investigational
+4,"animal, delta, additive, webpage, gras",1,2023-11-01,T4: delta · compounded · supplement
+7,"drops, eyes, pink, relief, floaters",2,2023-11-01,T7: drops · eyes · relief
+8,"prescription, disorder, practitioner, licensed, consumers",1,2023-11-01,T8: prescription · benzodiazepines · tramadol
+0,"acne, skin protectant, protectant, foundation, stability",6,2023-12-01,T0: contamination · cleaning · stability
+2,"study, subjects, investigational, assessments, future",2,2023-12-01,T2: study · subjects · investigational
+3,"placental, collagen, matrix, biological, tissue",1,2023-12-01,T3: donor · tissue · biological
+4,"energy, supplement, energy boost, undeclared, round",2,2023-12-01,T4: delta · compounded · supplement
+7,"drops, organic, daytime, small, colloidal silver",1,2023-12-01,T7: drops · eyes · relief
+8,"prescription, adderall, tramadol, stimulants, consumers",1,2023-12-01,T8: prescription · benzodiazepines · tramadol
+9,"forte, artri king, artri, omega, king",1,2023-12-01,T9: semaglutide · weight · body
+10,"covid, websites, infection, blog, coronavirus",1,2023-12-01,T10: covid · coronavirus · disease
+12,"nasal, nasal spray, spray, antihistamine, protection",1,2023-12-01,T12: covid · antiseptic · disease
+15,"request, registered, respond, agency, request mail",1,2023-12-01,T15: request · registered · respond
+0,"oversight, contamination, facilities, glycol, consultant",5,2024-01-01,T0: contamination · cleaning · stability
+1,"outsourcing, hood, outsourcing facilities, sterile, observation",1,2024-01-01,T1: outsourcing · sterile · compounded
+3,"device, changes, changed, premarket, design",1,2024-01-01,T3: donor · tissue · biological
+7,"sweet, night, syrup, nighttime, sleep",1,2024-01-01,T7: drops · eyes · relief
+15,"request, respond, registration file, provided registration, file",1,2024-01-01,T15: request · registered · respond
+0,"pharma, artificial, cleaning, aseptic, practices",10,2024-02-01,T0: contamination · cleaning · stability
+3,"donor, enforcement, biological, biologics, infection",1,2024-02-01,T3: donor · tissue · biological
+7,"drops, drop, eyes, lightening, color",1,2024-02-01,T7: drops · eyes · relief
+9,"tirzepatide, semaglutide, injection, weight, corporation",3,2024-02-01,T9: semaglutide · weight · body
+12,"nasal, antiseptic, antiseptics, rule, consumer",2,2024-02-01,T12: covid · antiseptic · disease
+17,"stimulant, salts, smelling, ammonia, native",2,2024-02-01,T17: ketamine · ammonia · kratom
+18,"listing, registration listing, registration, establishment, listing file",1,2024-02-01,T18: listing · registration · file
+0,"stability, practices, incoming, release, contamination",6,2024-03-01,T0: contamination · cleaning · stability
+1,"outsourcing, outsourcing facilities, sterile, sterility, caps",2,2024-03-01,T1: outsourcing · sterile · compounded
+2,"study, subjects, medication, investigational, member",2,2024-03-01,T2: study · subjects · investigational
+4,"smelling salts, smelling, salts, stimulant, reflex",1,2024-03-01,T4: delta · compounded · supplement
+6,"hand, sanitizer, hand sanitizer, guidance, provided",1,2024-03-01,T6: hand · sanitizer · alcohol
+16,"numbing, lidocaine, cream, tattoo, skin",6,2024-03-01,T16: numbing · skin · cream
+17,"ammonia, stimulant, smelling, salts, smelling salts",2,2024-03-01,T17: ketamine · ammonia · kratom
+0,"water, cleaning, practices, ongoing, oversight",9,2024-04-01,T0: contamination · cleaning · stability
+1,"outsourcing, sterile, compounded, investigators, exemptions",2,2024-04-01,T1: outsourcing · sterile · compounded
+3,"donor, stem, cells, donors, tissue",3,2024-04-01,T3: donor · tissue · biological
+6,"hand, guidance, sanitizer, hand sanitizer, provided",2,2024-04-01,T6: hand · sanitizer · alcohol
+9,"rybelsus, semaglutide, type diabetes, diabetes, consumers",1,2024-04-01,T9: semaglutide · weight · body
+17,"smelling, ammonia, smelling salts, salts, stimulant",1,2024-04-01,T17: ketamine · ammonia · kratom
+18,"listing, balm, establishment, sports, registration listing",2,2024-04-01,T18: listing · registration · file
+0,"water, cleaning, microbial, incoming, batches",3,2024-05-01,T0: contamination · cleaning · stability
+2,"study, investigational, subjects, entered, values",2,2024-05-01,T2: study · subjects · investigational
+6,"hand, guidance, sanitizer, hand sanitizer, alcohol",1,2024-05-01,T6: hand · sanitizer · alcohol
+0,"water, stability, ongoing, consultant, contamination",13,2024-06-01,T0: contamination · cleaning · stability
+2,"investigational, study, expanded, subjects, access",2,2024-06-01,T2: study · subjects · investigational
+3,"sepsis, donor, cord, umbilical, umbilical cord",4,2024-06-01,T3: donor · tissue · biological
+9,"semaglutide, consumers, semaglutide semaglutide, directions, prescription",1,2024-06-01,T9: semaglutide · weight · body
+0,"cleaning, contamination, practices, ongoing, monitoring",11,2024-07-01,T0: contamination · cleaning · stability
+1,"caps, outsourcing, sterile, updated, compounded",1,2024-07-01,T1: outsourcing · sterile · compounded
+4,"green, white, proprietary blend, email, obtained",1,2024-07-01,T4: delta · compounded · supplement
+8,"prescription, tramadol, oxycodone, consumers, practitioner",1,2024-07-01,T8: prescription · benzodiazepines · tramadol
+9,"cholesterol, plaque, atherosclerosis, pack, ultra",1,2024-07-01,T9: semaglutide · weight · body
+16,"skin, peel, acid, peels, acid skin",6,2024-07-01,T16: numbing · skin · cream
+0,"cleaning, contamination, ongoing, practices, integrity",10,2024-08-01,T0: contamination · cleaning · stability
+2,"study, investigational, dose, subjects, titration",1,2024-08-01,T2: study · subjects · investigational
+3,"tissue, adipose tissue, adipose, structural, cells",1,2024-08-01,T3: donor · tissue · biological
+4,"english translation, translation, english, diclofenac, yang",3,2024-08-01,T4: delta · compounded · supplement
+7,"eyes, ophthalmic, drops, amniotic fluid, fluid",1,2024-08-01,T7: drops · eyes · relief
+8,"pets, anxiety, dogs, spectrum, animal",1,2024-08-01,T8: prescription · benzodiazepines · tramadol
+9,"cream, identical, vitamin, pump, natural",1,2024-08-01,T9: semaglutide · weight · body
+18,"listing, listing file, registration listing, registration, file",1,2024-08-01,T18: listing · registration · file
+0,"stability, batches, little, cleaning, practices",8,2024-09-01,T0: contamination · cleaning · stability
+2,"continuing, study, subjects, closed, august",1,2024-09-01,T2: study · subjects · investigational
+4,"steel, hard, gold, plus, undeclared",2,2024-09-01,T4: delta · compounded · supplement
+6,"antiseptic, hand, sanitizer, hand sanitizer, consumer",2,2024-09-01,T6: hand · sanitizer · alcohol
+8,"tramadol, prescription, consumers, directions, risks",1,2024-09-01,T8: prescription · benzodiazepines · tramadol
+9,"semaglutide, tirzepatide, semaglutide semaglutide, weight, prescription",1,2024-09-01,T9: semaglutide · weight · body
+0,"botanical, listing, stability, ongoing, cleaning",7,2024-10-01,T0: contamination · cleaning · stability
+2,"study, subjects, investigational, form, prepare maintain",3,2024-10-01,T2: study · subjects · investigational
+3,"amniotic, biological, card self, card, flow",3,2024-10-01,T3: donor · tissue · biological
+6,"wipes, antibacterial, multi, antiseptic, purpose",1,2024-10-01,T6: hand · sanitizer · alcohol
+7,"drops, color, eyes, blue, changing",1,2024-10-01,T7: drops · eyes · relief
+0,"mint, contamination, consultant, glycol, oral",12,2024-11-01,T0: contamination · cleaning · stability
+2,"study, subjects, investigational, human subjects, protocols",1,2024-11-01,T2: study · subjects · investigational
+3,"allograft, fluid, amniotic, purified, amniotic fluid",1,2024-11-01,T3: donor · tissue · biological
+16,"cream, skin, numbing, lidocaine, external",1,2024-11-01,T16: numbing · skin · cream
+0,"ongoing, detailed, practices, deviations, stability",7,2024-12-01,T0: contamination · cleaning · stability
+1,"outsourcing, sterile, outsourcing facilities, exemptions, compounded",2,2024-12-01,T1: outsourcing · sterile · compounded
+2,"therapeutics, applied, study, subjects, electronic",2,2024-12-01,T2: study · subjects · investigational
+3,"tissue, cord, umbilical, umbilical cord, biological",4,2024-12-01,T3: donor · tissue · biological
+4,"weight, boost, lose, metabolic, drops",1,2024-12-01,T4: delta · compounded · supplement
+9,"semaglutide, weight, retatrutide, loss, cagrilintide",4,2024-12-01,T9: semaglutide · weight · body
+0,"hair, deviations, contamination, glycol, water",9,2025-01-01,T0: contamination · cleaning · stability
+1,"updated, outsourcing, visual, provided, sterile",1,2025-01-01,T1: outsourcing · sterile · compounded
+3,"donor, biologics, cord, tissue, umbilical",2,2025-01-01,T3: donor · tissue · biological
+4,"endurance, sildenafil, supplement, diclofenac, undeclared",1,2025-01-01,T4: delta · compounded · supplement
+6,"hand, instant hand, rinse, sanitizer, hand sanitizer",1,2025-01-01,T6: hand · sanitizer · alcohol
+9,"prescription, ozempic, diabetes mellitus, mellitus, type diabetes",1,2025-01-01,T9: semaglutide · weight · body
+0,"deviations, cleaning, contamination, aseptic, practices",11,2025-02-01,T0: contamination · cleaning · stability
+2,"investigational, subjects, study, human subjects, investigation",1,2025-02-01,T2: study · subjects · investigational
+3,"donor, semen, semen donor, screening, communicable",1,2025-02-01,T3: donor · tissue · biological
+9,"semaglutide, tirzepatide, tirzepatide mounjaro, mounjaro, prescription",1,2025-02-01,T9: semaglutide · weight · body
+15,"request, respond, request mail, mail, registered",1,2025-02-01,T15: request · registered · respond
+16,"tktx, numbing, cream, tktx numbing, numbing cream",4,2025-02-01,T16: numbing · skin · cream
+0,"stability, cleaning, contamination, ongoing, practices",9,2025-03-01,T0: contamination · cleaning · stability
+1,"outsourcing, wash, sterile, sunscreen, body wash",5,2025-03-01,T1: outsourcing · sterile · compounded
+2,"subjects, study, investigational, consent, enrolled",3,2025-03-01,T2: study · subjects · investigational
+3,"donor, colitis, biological, infection, enforcement",1,2025-03-01,T3: donor · tissue · biological
+4,"king, advance, forte, para, diclofenac",3,2025-03-01,T4: delta · compounded · supplement
+8,"tapentadol, prescription, aspadol, nucynta, consumers",1,2025-03-01,T8: prescription · benzodiazepines · tramadol
+9,"lipo, body, lemonbottle, lipolytic, cells",6,2025-03-01,T9: semaglutide · weight · body
+17,"epinephrine, nasal, chloride, glass, injection",1,2025-03-01,T17: ketamine · ammonia · kratom
+18,"listing, registration listing, registration, nighttime, removal",1,2025-03-01,T18: listing · registration · file
+0,"stability, ongoing, cleaning, contamination, practices",10,2025-04-01,T0: contamination · cleaning · stability
+1,"outsourcing, sterile, aseptic, compounded, exemptions",4,2025-04-01,T1: outsourcing · sterile · compounded
+2,"subjects, investigational, study, sleep, investigation",2,2025-04-01,T2: study · subjects · investigational
+4,"urination, bladder, excessive, loop, exhibit",1,2025-04-01,T4: delta · compounded · supplement
+6,"antiseptic, remover, wipes, wipe, rule",1,2025-04-01,T6: hand · sanitizer · alcohol
+9,"ozempic, semaglutide, prescription, rybelsus, ozempic rybelsus",1,2025-04-01,T9: semaglutide · weight · body
+16,"tattoo, numbing, numbing cream, cream, tattoo numbing",1,2025-04-01,T16: numbing · skin · cream
+0,"authentic, penetrating, deep, relief, water",8,2025-05-01,T0: contamination · cleaning · stability
+1,"sterile, outsourcing, acknowledge, aseptic, vial",1,2025-05-01,T1: outsourcing · sterile · compounded
+3,"exosomes, exosome, tissue, therapy, biologics",1,2025-05-01,T3: donor · tissue · biological
+4,"silver, colloidal silver, colloidal, promotional, communication",3,2025-05-01,T4: delta · compounded · supplement
+8,"prescription, tramadol, benzodiazepines, consumers, abuse",2,2025-05-01,T8: prescription · benzodiazepines · tramadol
+18,"listing, registration listing, registration, establishment, sensitivity",1,2025-05-01,T18: listing · registration · file
+0,"cleaning, contamination, water, wholesale, ongoing",10,2025-06-01,T0: contamination · cleaning · stability
+2,"subjects, study, investigational, consent, informed consent",2,2025-06-01,T2: study · subjects · investigational
+3,"donor, donors, communicable, communicable disease, eligibility",1,2025-06-01,T3: donor · tissue · biological
+4,"kratom, webpages, potent, dietary, mood",1,2025-06-01,T4: delta · compounded · supplement
+8,"prescription, tramadol, tapentadol, benzodiazepines, oxycodone",4,2025-06-01,T8: prescription · benzodiazepines · tramadol
+9,"tablets, sublingual, additive, free, reviews",1,2025-06-01,T9: semaglutide · weight · body
+0,"stability, toothpaste, root, cause, investigation",10,2025-07-01,T0: contamination · cleaning · stability
+3,"device, spectrum, devices, place, specifically",1,2025-07-01,T3: donor · tissue · biological
+4,"memory, brain, alzheimer, cognition, alzheimer disease",1,2025-07-01,T4: delta · compounded · supplement
+7,"drops, ophthalmic, lubricant, eyes, demulcent",5,2025-07-01,T7: drops · eyes · relief
+8,"prescription, benzodiazepines, tramadol, oxycodone, adderall",4,2025-07-01,T8: prescription · benzodiazepines · tramadol
+9,"tapentadol, semaglutide, diabetes, brand, prescription",1,2025-07-01,T9: semaglutide · weight · body
+0,"contamination, relief, cleaning, practices, incoming",7,2025-08-01,T0: contamination · cleaning · stability
+1,"mousse, sunscreen, foam, dosage, sunscreen mousse",5,2025-08-01,T1: outsourcing · sterile · compounded
+3,"cord, umbilical, umbilical cord, nano, donor",2,2025-08-01,T3: donor · tissue · biological
+7,"eyes, drops, relief, honey, vision",7,2025-08-01,T7: drops · eyes · relief
+8,"tapentadol, prescription, benzodiazepines, tramadol, alprazolam",1,2025-08-01,T8: prescription · benzodiazepines · tramadol
+16,"tone, skin, true, bleaching, skin bleaching",1,2025-08-01,T16: numbing · skin · cream
+0,"stability, investigation, contamination, water, ongoing",12,2025-09-01,T0: contamination · cleaning · stability
+1,"compounded, bulk, retatrutide, outsourcing, exemptions",8,2025-09-01,T1: outsourcing · sterile · compounded
+2,"study, subjects, investigational, enrolled, consent",3,2025-09-01,T2: study · subjects · investigational
+3,"donor, biological, tissue, membrane, biologics",3,2025-09-01,T3: donor · tissue · biological
+4,"promotional, sponsored, communication, tadalafil, compounded",6,2025-09-01,T4: delta · compounded · supplement
+8,"brand, prescription, benzodiazepines, oxycodone, abuse",1,2025-09-01,T8: prescription · benzodiazepines · tramadol
+9,"zepbound, video, promotional, patients, mounjaro",4,2025-09-01,T9: semaglutide · weight · body
+11,"tirzepatide, compounded, semaglutide, semaglutide tirzepatide, compounded semaglutide",33,2025-09-01,T11: tirzepatide · compounded · semaglutide
+12,"communication, presentation, promotional, immune, germs",1,2025-09-01,T12: covid · antiseptic · disease
+15,"request, requested, respond, permit access, access copying",2,2025-09-01,T15: request · registered · respond
+19,"semaglutide, compounded, compounded semaglutide, false, claims",17,2025-09-01,T19: semaglutide · compounded · false
+0,"water, contamination, stability, protectant, cause",12,2025-10-01,T0: contamination · cleaning · stability
+1,"outsourcing, sterile, bulk, compounded, outsourcing facilities",1,2025-10-01,T1: outsourcing · sterile · compounded
+4,"sickness, motion, patches, patch, nausea",1,2025-10-01,T4: delta · compounded · supplement
+7,"honey, forte, drops, ophthalmic, eyes",1,2025-10-01,T7: drops · eyes · relief
+8,"brand, prescription, benzodiazepines, adderall, stimulants",2,2025-10-01,T8: prescription · benzodiazepines · tramadol
+0,"contamination, deviations, oversight, water, batches",8,2025-11-01,T0: contamination · cleaning · stability
+1,"outsourcing, compounded, sterile, aseptic, outsourcing facilities",1,2025-11-01,T1: outsourcing · sterile · compounded
+2,"study, investigation, sponsor, investigational, subjects",1,2025-11-01,T2: study · subjects · investigational
+3,"donor, communicable, communicable disease, tissue, biologics",1,2025-11-01,T3: donor · tissue · biological
+4,"lotion, soaps, antimicrobial, nonprescription, antiseptic nonprescription",4,2025-11-01,T4: delta · compounded · supplement
+7,"drops, eyes, measles, webpage, drop",5,2025-11-01,T7: drops · eyes · relief
+14,"toxin, botulinum, botulinum toxin, dystonia, cervical dystonia",19,2025-11-01,T14: toxin · botulinum · cervical dystonia
+15,"request, jiangsu, registrar corp, industrial park, refused",1,2025-11-01,T15: request · registered · respond
+0,"cleaning, practices, incoming, ongoing, stability",13,2025-12-01,T0: contamination · cleaning · stability
+1,"outsourcing, adverse, sterile, compounded, adverse event",2,2025-12-01,T1: outsourcing · sterile · compounded
+2,"investigational, study, subjects, future, dose",3,2025-12-01,T2: study · subjects · investigational
+3,"donor, tissue, biological, biologics, solely",4,2025-12-01,T3: donor · tissue · biological
+4,"sarms, muscle, ostarine, selective androgen, androgen receptor",1,2025-12-01,T4: delta · compounded · supplement
+9,"growth, muscle, sarms, mass, ibutamoren",6,2025-12-01,T9: semaglutide · weight · body
+0,"cleaning, contamination, stability, practices, cross",5,2026-01-01,T0: contamination · cleaning · stability
+1,"outsourcing, compounded, sterile, exemptions, bulk",2,2026-01-01,T1: outsourcing · sterile · compounded
+2,"investigational, subjects, study, investigation, sciences",2,2026-01-01,T2: study · subjects · investigational
+3,"donor, donors, communicable, self, card",6,2026-01-01,T3: donor · tissue · biological
+0,"cleaning, release, microbiological, finished, microbial",6,2026-02-01,T0: contamination · cleaning · stability
+1,"sterile, anteroom, outsourcing, bulk, compounding",2,2026-02-01,T1: outsourcing · sterile · compounded
+2,"investigational, study, subjects, visit, consent",2,2026-02-01,T2: study · subjects · investigational
+3,"cord, umbilical cord, umbilical, cord derived, derived",2,2026-02-01,T3: donor · tissue · biological
+4,"nicotine, tobacco, energy, focus, memory",1,2026-02-01,T4: delta · compounded · supplement
+13,"compounded, false, tirzepatide, semaglutide tirzepatide, semaglutide",30,2026-02-01,T13: compounded · false · tirzepatide
+0,"integrity, practices, contamination, ongoing, cleaning",10,2026-03-01,T0: contamination · cleaning · stability
+1,"outsourcing, sterile, syringe, acknowledge, outsourcing facilities",1,2026-03-01,T1: outsourcing · sterile · compounded
+2,"study, subjects, investigational, studies, consent",4,2026-03-01,T2: study · subjects · investigational
+3,"self, card self, card, kits, serological diagnostic",1,2026-03-01,T3: donor · tissue · biological
+4,"store, patch, weight, nano, oral",2,2026-03-01,T4: delta · compounded · supplement
+8,"prescription, consumers, tramadol, tram, practitioner",1,2026-03-01,T8: prescription · benzodiazepines · tramadol
+9,"cancer, weight, peptide, body, promotional",6,2026-03-01,T9: semaglutide · weight · body
+18,"listing, registration listing, registration, establishment, removal",1,2026-03-01,T18: listing · registration · file
+0,"contamination, stability, microbiological, cleaning, independent",15,2026-04-01,T0: contamination · cleaning · stability
+1,"outsourcing, compounded, sterile, compounding, exemptions",1,2026-04-01,T1: outsourcing · sterile · compounded
+2,"study, consent, informed consent, subjects, informed",2,2026-04-01,T2: study · subjects · investigational
+3,"devices, premarket, device, biologics, corrections",1,2026-04-01,T3: donor · tissue · biological
+4,"dexamethasone, diclofenac, supplement, dietary, undeclared",1,2026-04-01,T4: delta · compounded · supplement
+8,"prescription, benzodiazepines, abuse, stimulants, consumers",3,2026-04-01,T8: prescription · benzodiazepines · tramadol
+9,"dexamethasone, diclofenac, hyaluronic acid, hyaluronic, acid",1,2026-04-01,T9: semaglutide · weight · body
+12,"oxide, cleanser, nasal, viruses, safely effectively",1,2026-04-01,T12: covid · antiseptic · disease
+14,"botulinum, botox, toxin, botulinum toxin, pure",2,2026-04-01,T14: toxin · botulinum · cervical dystonia
+0,"contamination, stability, aseptic, practices, cleaning",11,2026-05-01,T0: contamination · cleaning · stability
+1,"sterile, aseptic, outsourcing, acknowledge, bags",1,2026-05-01,T1: outsourcing · sterile · compounded
+2,"study, subjects, investigational, nonclinical, studies",3,2026-05-01,T2: study · subjects · investigational
+3,"stem, cord, stem cell, umbilical, umbilical cord",1,2026-05-01,T3: donor · tissue · biological
+4,"freckles, acne, damage, spots, dark",2,2026-05-01,T4: delta · compounded · supplement
+12,"nasal, incubation, contaminants, germs, covid",1,2026-05-01,T12: covid · antiseptic · disease
+14,"migraine, sinus, internal, relief, headache",2,2026-05-01,T14: toxin · botulinum · cervical dystonia
+15,"request, respond, registration, requests, registered",1,2026-05-01,T15: request · registered · respond
+0,"talc, asbestos, aseptic, integrity, contamination",15,2026-06-01,T0: contamination · cleaning · stability
+4,"compounded, false, semaglutide, semaglutide tirzepatide, tirzepatide",38,2026-06-01,T4: delta · compounded · supplement
+15,"request, yangzhou, registered, shipments, respond",1,2026-06-01,T15: request · registered · respond
+17,"ketamine, spravato, rems, prescription, depression",14,2026-06-01,T17: ketamine · ammonia · kratom
+0,"cleaning, contamination, acne, integrity, ongoing",11,2026-07-01,T0: contamination · cleaning · stability
+2,"study, subjects, investigational, returned, consent",2,2026-07-01,T2: study · subjects · investigational
+0,"aseptic, processing, contamination, stability, practices",11,2026-08-01,T0: contamination · cleaning · stability
+1,"outsourcing, sterile, visual, defect, outsourcing facilities",1,2026-08-01,T1: outsourcing · sterile · compounded
+2,"study, subjects, form, consent, signed",1,2026-08-01,T2: study · subjects · investigational
+3,"umbilical, umbilical cord, cord, stem, stem cell",1,2026-08-01,T3: donor · tissue · biological
+9,"peptide, tesamorelin, metabolic, retatrutide, webpage",6,2026-08-01,T9: semaglutide · weight · body
+0,"contamination, aseptic, processing, independent, batches",11,2026-09-01,T0: contamination · cleaning · stability
+1,"compounded, outsourcing, sterile, aseptic, orders",2,2026-09-01,T1: outsourcing · sterile · compounded
+3,"biological, cells, donor, placenta, stem",2,2026-09-01,T3: donor · tissue · biological
+9,"semaglutide, prescription, adults, weight, injection",2,2026-09-01,T9: semaglutide · weight · body
+14,"toxin, botulinum, botulinum toxin, directions, cervical dystonia",1,2026-09-01,T14: toxin · botulinum · cervical dystonia
+0,"cooling, aseptic, drops, contamination, oversight",9,2026-10-01,T0: contamination · cleaning · stability
+2,"dosing, study, final study, nonclinical, nonclinical studies",1,2026-10-01,T2: study · subjects · investigational
+3,"donor, tissue, biological, devices, device",2,2026-10-01,T3: donor · tissue · biological
+4,"sores, genital, genital sores, public, homeopathic",5,2026-10-01,T4: delta · compounded · supplement
+12,"genital, herpes, genital herpes, ointment, homeopathic",3,2026-10-01,T12: covid · antiseptic · disease
+14,"homeopathic, toxin, botulinum, botulinum toxin, herpes",3,2026-10-01,T14: toxin · botulinum · cervical dystonia

@@ -1,0 +1,22 @@
+{
+  "n_letters": 1332,
+  "year_min": 2021,
+  "year_max": 2026,
+  "last_date": "2026-10-23",
+  "partial_year": 2026,
+  "km_sem_agreement": 0.8941441441441441,
+  "km_sem_ari": 0.19618106388353515,
+  "deberta_agreement": 0.8849040867389492,
+  "n_reference": 1199,
+  "irrelevant_chunk_share": 0.23752856054836252,
+  "n_bertopic_topics": 20,
+  "lowess_frac": 0.25,
+  "horizon": 6,
+  "category_colors": {
+    "cGMP & Manufacturing Quality": "#2E86AB",
+    "Unapproved Drugs & Misbranding": "#E84855",
+    "Drug Compounding": "#F4A261",
+    "Clinical & Research Violations": "#9B5DE5",
+    "Unclassified": "#999999"
+  }
+}
